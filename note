@@ -1,0 +1,10 @@
+get post put patch delete 
+
+api code :
+request -input  (accept data from anyone js java python and it can send data can anyone)
+respond - return (send data)
+
+
+postman :-
+params : when add something in params it will add in url 
+         
